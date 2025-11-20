@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/letcode/C++/puzzle_solver/build",
+  "command": "D:\\mingw64\\mingw64\\bin\\g++.exe  @CMakeFiles/puzzle_solver.dir/includes_CXX.rsp -g -std=gnu++17 -g -O0 -o CMakeFiles\\puzzle_solver.dir\\src\\main.cpp.obj -c E:\\letcode\\C++\\puzzle_solver\\src\\main.cpp",
+  "file": "E:/letcode/C++/puzzle_solver/src/main.cpp",
+  "output": "CMakeFiles/puzzle_solver.dir/src/main.cpp.obj"
+},
+{
+  "directory": "E:/letcode/C++/puzzle_solver/build",
+  "command": "D:\\mingw64\\mingw64\\bin\\g++.exe  @CMakeFiles/puzzle_solver.dir/includes_CXX.rsp -g -std=gnu++17 -g -O0 -o CMakeFiles\\puzzle_solver.dir\\src\\puzzle_solver.cpp.obj -c E:\\letcode\\C++\\puzzle_solver\\src\\puzzle_solver.cpp",
+  "file": "E:/letcode/C++/puzzle_solver/src/puzzle_solver.cpp",
+  "output": "CMakeFiles/puzzle_solver.dir/src/puzzle_solver.cpp.obj"
+},
+{
+  "directory": "E:/letcode/C++/puzzle_solver/build",
+  "command": "D:\\mingw64\\mingw64\\bin\\g++.exe  @CMakeFiles/puzzle_solver.dir/includes_CXX.rsp -g -std=gnu++17 -g -O0 -o CMakeFiles\\puzzle_solver.dir\\src\\search_algorithms.cpp.obj -c E:\\letcode\\C++\\puzzle_solver\\src\\search_algorithms.cpp",
+  "file": "E:/letcode/C++/puzzle_solver/src/search_algorithms.cpp",
+  "output": "CMakeFiles/puzzle_solver.dir/src/search_algorithms.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\puzzle_solver.dir/objects.a
+D:\mingw64\mingw64\bin\ar.exe qc CMakeFiles\puzzle_solver.dir/objects.a @CMakeFiles\puzzle_solver.dir\objects1.rsp
+D:\mingw64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\puzzle_solver.dir/objects.a -Wl,--no-whole-archive -o puzzle_solver.exe -Wl,--out-implib,libpuzzle_solver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\puzzle_solver.dir\linkLibs.rsp
